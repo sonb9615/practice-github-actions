@@ -1,2 +1,2 @@
 # practice-github-actions
-🛰️ GitHub Actions 학습을 위한 공간입니다.
+🛰️ CI/CD 자동화를 위한 GitHub Actions 학습 공간입니다.
